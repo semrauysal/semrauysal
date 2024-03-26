@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**semrauysal/semrauysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![image](https://m.media-amazon.com/images/I/41szLPYSKYL._AC_SY780_.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkledin linki](https://www.linkedin.com/in/semra-uysal-841058273/)
+
+
+
+# Selam Ben Semra :)
+
+Yıldız Teknik Üniversitesinde **matematik mühendisliği** okuyorum. Şu anda *Front-end* üzerine çalışıp projeler geliştiriyorum.
+
+
+### Neler üzerinde çalışıyorum:
+
+|  | |
+|--- | ----|
+|HTML | ****|
+|CSS | ****|
+|Javascript|***|
+|Python|**|
