@@ -17,7 +17,7 @@ Yıldız Teknik Üniversitesinde **matematik mühendisliği** okuyorum. Şu anda
 
 |  | |
 |--- | ----|
-|HTML |*star*|
+|HTML |:star:|
 |CSS | ****|
 |Javascript|***|
 |Python|**|
