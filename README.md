@@ -2,7 +2,7 @@
 
 ![merhaba](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5FdPWil_ZyEB-xKeI19R0XVBpegNUzq2dw&usqp=CAU)
 
-![![linkledin](https://fontawesome.com/icons/linkedin-in?f=brands&s=solid)](https://www.linkedin.com/in/semra-uysal-841058273/)
+[![LinkedIn](https://fontawesome.com/icons/linkedin-in?style=brands)](https://www.linkedin.com/in/semra-uysal-841058273/)
 
 
 
