@@ -21,3 +21,7 @@ Yıldız Teknik Üniversitesinde **matematik mühendisliği** okuyorum. Şu anda
 |CSS | ****|
 |Javascript|***|
 |Python|**|
+
+-semra
+-uysal
+-13
