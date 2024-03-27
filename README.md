@@ -1,6 +1,6 @@
 
 
-![image](https://m.media-amazon.com/images/I/41szLPYSKYL._AC_SY780_.jpg)
+[![linkledin](https://fontawesome.com/icons/linkedin-in?f=brands&s=solid)](https://www.linkedin.com/in/semra-uysal-841058273/)
 
 [<i class="fa-brands fa-linkedin-in"></i>](https://www.linkedin.com/in/semra-uysal-841058273/)
 
