@@ -3,6 +3,7 @@
 ![merhaba](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5FdPWil_ZyEB-xKeI19R0XVBpegNUzq2dw&usqp=CAU)
 
 [<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png">](https://www.linkedin.com/in/semra-uysal-841058273/)
+[<img width=50 src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png">](https://github.com/semrauysal)
 
 
 
