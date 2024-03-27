@@ -17,13 +17,11 @@ Yıldız Teknik Üniversitesinde **matematik mühendisliği** okuyorum. Şu anda
 
 |  | |
 |--- | ----|
-|HTML |:star:|
-|CSS | ****|
-|Javascript|***|
-|Python|**|
+|HTML |:star::star::star::star:|
+|CSS | :star::star::star::star:|
+|Javascript|:star::star::star:|
+|Python|:star::star:|
 
-+semra
-+uysal
-+kalı
+
 
 
